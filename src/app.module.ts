@@ -22,7 +22,7 @@ import { FilesModule } from './files/files.module';
     ProductsModule,
     CommonModule,
     SeedModule,
-    FilesModule, 
+    FilesModule,
   ]
 })
 export class AppModule {}
